@@ -27,6 +27,7 @@
 | Output Type | NPN Open-Collector / RS-232 |
 | Manufacturer | All Mobile Robotics Co., Ltd. |
 | Product Page | [🔗 allmobilerobotics.com](https://www.allmobilerobotics.com/product/11000838100000060) |
+| 📄 Datasheet | [🔗 Google Drive](https://drive.google.com/drive/folders/1hqCBIa8ZRLJ6kIA8W4Svx-WqmPL6Vb1k) |
 
 ---
 
@@ -54,6 +55,16 @@
 | VCC | 9–28 V | External supply |
 
 > **NPN Open-Collector:** LOW = line detected → use `INPUT_PULLUP` on ESP32
+
+### วงจร External INPUT_PULLUP (แนะนำ)
+
+![External INPUT_PULLUP Wiring](extranalinputpullup.png)
+
+> ต่อ resistor 10K pull-up ไปยัง VCC ทุก channel เพื่อความเสถียร
+
+### วงจร Internal INPUT_PULLUP (ใช้ใน ESP32)
+
+![Internal INPUT_PULLUP Wiring](intarnainpullup.png)
 
 ---
 
