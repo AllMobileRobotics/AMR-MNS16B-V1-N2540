@@ -4,6 +4,18 @@
 
 ---
 
+## 🖼️ Product
+
+![AMR-MNS16B-V1 AGV Guide Sensor](714jdw.webp)
+
+---
+
+## 🏢 Manufacturer
+
+![All Mobile Robotics Co., Ltd.](All%20Mobile%20Robotics%20Co.%2C%20Ltd..png)
+
+---
+
 ## 📦 Product Overview
 
 | Item | Detail |
