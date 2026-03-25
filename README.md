@@ -14,6 +14,7 @@
 | Supply Voltage | DC 9–28 V |
 | Output Type | NPN Open-Collector / RS-232 |
 | Manufacturer | All Mobile Robotics Co., Ltd. |
+| Product Page | [🔗 allmobilerobotics.com](https://www.allmobilerobotics.com/product/11000838100000060) |
 
 ---
 

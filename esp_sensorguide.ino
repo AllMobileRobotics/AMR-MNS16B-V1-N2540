@@ -3,6 +3,7 @@
 //  Output Type : NPN Open-Collector  (LOW = line detected)
 //  External power for sensor : 9-28 V
 //  Board : ESP32 (Node32s)
+//  Product : https://www.allmobilerobotics.com/product/11000838100000060
 // ============================================================
 //
 //  Wiring (sensor side → ESP32 GPIO)

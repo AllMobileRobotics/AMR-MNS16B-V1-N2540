@@ -4,6 +4,7 @@
 //  TEST : Raw Digital Read — AGV Guide Sensor AMR-MNS8B-V1
 //  Output Type : NPN Open-Collector  (LOW = line detected)
 //  External power for sensor : 9-28 V
+//  Product : https://www.allmobilerobotics.com/product/11000838100000060
 // ============================================================
 //
 //  Wiring (sensor side → ESP32 GPIO)
